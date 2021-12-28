@@ -19,3 +19,8 @@ Django Rest Framework was used in this project to provide a Rest API for our dat
 Its no wonder that Django has become one of the Top Backend Frameworks now and for the future.
 Its simple yet powerful abilitys leave many always ready to Django.
 :).
+
+
+![Alt text](reviewme1.JPG?raw=true)
+![Alt text](reviewme2.JPG?raw=true)
+![Alt text](reviewme3.JPG?raw=true)
