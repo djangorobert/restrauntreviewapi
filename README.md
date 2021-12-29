@@ -5,10 +5,11 @@ The Web APP API allows for regular people to provide reviews of Local Restraunts
 
 Technologys used in this app:
 ============================
-1.)Django              4.0
-2.)django-cors-headers 3.10.1
-3.)django-environ      0.8.1
-4.)djangorestframework 3.13.1
+1.).Python               3.10.0
+2.)Django              4.0
+3.)django-cors-headers 3.10.1
+4.)django-environ      0.8.1
+5.)djangorestframework 3.13.1
 
 
 Django was utilized to provide a great Backend for our Web App
