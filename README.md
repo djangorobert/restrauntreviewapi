@@ -24,3 +24,6 @@ Its simple yet powerful abilitys leave many always ready to Django.
 ![Alt text](reviewme1.JPG?raw=true)
 ![Alt text](reviewme2.JPG?raw=true)
 ![Alt text](reviewme3.JPG?raw=true)
+#Here is an example using Python to consume from the REST API
+![Alt text](reviewme4.JPG?raw=true)
+![Alt text](reviewme5.JPG?raw=true)
